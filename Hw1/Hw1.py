@@ -56,7 +56,7 @@ for i in range(int(year*12)):
 
 # In[6]:
 
-
+import os
 import pandas as pd 
 data = {'本金(元)':prin_mon_pay, '利息(元)':inte_mon_pay, '本利累計(元)':all_accu_pay}
 col_names = []
@@ -66,3 +66,4 @@ df = pd.DataFrame(data,index=col_names)
 df
 print(df)
 
+os.system("pause")
