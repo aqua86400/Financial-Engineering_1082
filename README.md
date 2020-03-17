@@ -8,6 +8,6 @@ Email：r06246008@ntu.edu.tw <br />
 
 ## Course Content &emsp; 課程內容
 ### Week_1 Time value of money, bonds, mortgages, and annuities
-[Hw1]() 本金平均攤還試算
+[Hw1](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw1)  本金平均攤還試算 <br />
 參考：[臺南三信 本金平均攤還試算](https://ttc.scu.org.tw/memdca1.htm)
 
