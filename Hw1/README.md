@@ -16,5 +16,7 @@
 四、最後為了檢查輸出正確與否，參考老師給的網站：[臺南三信 本金平均攤還試算](https://ttc.scu.org.tw/memdca1.htm) 來做比較。<br />
 
 ## 程式流程圖
-
+以下為`Hw1.ipynb`的程式流程圖：<br />
 ![flowchart_hw1](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw1/flowchart_hw1.png)
+
+ps. `Hw1.py` 為執行檔，下載後可直接點用。
