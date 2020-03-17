@@ -3,5 +3,5 @@
 
 姓名：邱郁軒 <br />
 系所：應數所 <br />
-學號：R06246008 &ensp; Email:r06246008@ntu.edu.tw <br />
+學號：R06246008 &ensp; Email：r06246008@ntu.edu.tw <br />
 
