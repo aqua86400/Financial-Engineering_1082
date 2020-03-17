@@ -8,6 +8,11 @@ Email：r06246008@ntu.edu.tw <br />
 
 ## Course Content &emsp; 課程內容
 ### Week_1 Time value of money, bonds, mortgages, and annuities
-[Hw1](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw1)  本金平均攤還試算 <br />
-參考：[臺南三信 本金平均攤還試算](https://ttc.scu.org.tw/memdca1.htm)
+* 課程投影片：[https://docs.google.com/presentation/d/e/2PACX-1vQanrLs-ZSFlnAXkUL5uLO9PVvrK1GaNFcjCVwC7IyIt16w_NuaCYUaO6lRxF54Qub_RntV2FGKr-Dm/pub?start=false&loop=false&delayms=3000&slide=id.p](https://docs.google.com/presentation/d/e/2PACX-1vQanrLs-ZSFlnAXkUL5uLO9PVvrK1GaNFcjCVwC7IyIt16w_NuaCYUaO6lRxF54Qub_RntV2FGKr-Dm/pub?start=false&loop=false&delayms=3000&slide=id.p) <br />
+* [Hw1](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw1)  本金平均攤還試算 <br />
+
+參考：[臺南三信 本金平均攤還試算](https://ttc.scu.org.tw/memdca1.htm) <br />
+
+### Week_2 Duration, Convexity, and Immunization
+* 課程投影片：
 
