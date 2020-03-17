@@ -1,6 +1,8 @@
 # 作業一：本金平均攤還試算
 ## 學習歷程
-1. 做作業前把老師的[投影片](https://docs.google.com/presentation/d/e/2PACX-1vQanrLs-ZSFlnAXkUL5uLO9PVvrK1GaNFcjCVwC7IyIt16w_NuaCYUaO6lRxF54Qub_RntV2FGKr-Dm/pub?start=false&loop=false&delayms=3000&slide=id.p)好好看過一次，主要了解時間變化是如何影響到現金流的價值，其中的數學式皆自己推導過。 <br />
+
+1. 做作業前把老師的[投影片](https://docs.google.com/presentation/d/e/2PACX-1vQanrLs-ZSFlnAXkUL5uLO9PVvrK1GaNFcjCVwC7IyIt16w_NuaCYUaO6lRxF54Qub_RntV2FGKr-Dm/pub?start=false&loop=false&delayms=3000&slide=id.p)好好看過一次，主要了解時間變化是如何影響到現金流的價值，其中的數學式皆自己推導過。
+
 2.接下來上網查詢並確認本次作業的本金平均攤還是怎麼樣的流程：[「本金均攤」與「本息均攤」差別 - 聰明貸款](https://www.smartloan.com.tw/viewBlogDetail.do?kmId=45)，由此知道這種方法的核心是以下兩點： <br />
 * 借款總額/總期數 = 每期應繳本金 （每期應繳本金相同）
 * 每期貸款餘額*(年利率/12) = 當月利息 (每月利息會變動) <br />
