@@ -17,6 +17,4 @@
 
 ## 程式流程圖
 
-<center>
-![](flowchart_hw1.png)
-</center>
+![flowchart_hw1](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw1/flowchart_hw1.png)
