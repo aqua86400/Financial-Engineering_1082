@@ -16,4 +16,7 @@
 四、最後為了檢查輸出正確與否，參考老師給的網站：[臺南三信 本金平均攤還試算](https://ttc.scu.org.tw/memdca1.htm) 來做比較。<br />
 
 ## 程式流程圖
-![Code Flowchart](flowchart_hw1.png)<p align="center">
+
+<center>
+![](flowchart_hw1.png)
+</center>
