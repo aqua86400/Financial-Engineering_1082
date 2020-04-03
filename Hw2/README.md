@@ -31,3 +31,8 @@
 <img src="https://render.githubusercontent.com/render/math?math=(1 %2B SR(j))^j=(1 %2B SR(i))^i(1 %2B f_{i,j})^{j-i}">，
 
 <img src="https://render.githubusercontent.com/render/math?math=f_{i,j}"> 就是第i時點到第j時點的遠期利率。
+
+## 程式流程圖
+以下為[`Hw2.ipynb`](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw2/Hw2.ipynb)的程式流程圖(使用了[draw.io線上圖表軟體](https://app.diagrams.net/))：<br />
+
+![flowchart_hw1](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw2/hw2_flowchart.png)
