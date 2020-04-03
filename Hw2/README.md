@@ -1,4 +1,6 @@
 # 債券報價中的 YTM、Spot Rate、Forward Rate
+0403更新歷程
+0404更新程式
 
 ## 學習歷程
 一、 這次的作業對非財務相關的我挺困難的......除了看老師的投影片([1](https://docs.google.com/presentation/d/e/2PACX-1vT0uWPmTezKky8GLD_fkmfuJjXCLRuVkQWNuHmeogeMpY21cbwQurn7CsaVWRZDSZcZTvXjjpvY4lwE/pub?start=false&loop=false&delayms=3000&slide=id.p)、[2](https://docs.google.com/presentation/d/e/2PACX-1vSVL0BfN9ddvwhYgAX3PDQzzy864wCQflg9G1-1J7g-t7Rw8bXg1iicVBmgN0HSarVZSFs35Pxv1gA3/pub?start=false&loop=false&delayms=3000&slide=id.p))和相關連結，還有去旁聽一門課([財務演算法](https://github.com/andydong1209/NTU_FinAlgo))，剛好也有提到YTM、Spot Rate與Forward Rate，不過還不是很了解，因此還有求助一位朋友也是修課同學。
