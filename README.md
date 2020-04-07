@@ -16,4 +16,5 @@ Email：r06246008@ntu.edu.tw <br />
 
 ### Week_3 Yield curve, Forward rate, and Spot rate
 * 課程投影片：[W3](https://docs.google.com/presentation/d/e/2PACX-1vT0uWPmTezKky8GLD_fkmfuJjXCLRuVkQWNuHmeogeMpY21cbwQurn7CsaVWRZDSZcZTvXjjpvY4lwE/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
-
+* 作業二：計算市場債券報價中的 YTM、Spot Rate、Forward Rate 以及建立 Forward Rate 對照表 [Hw2](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw2) <br /> &emsp;參考：[Bond Yield Calculator](https://www.calkoo.com/en/ytm-calculator)、[Spot Rate Calculator](https://www.trignosource.com/finance/spot%20rate.html#Calculator)、
+[Forward Rate Calculator](https://www.trignosource.com/finance/Forward%20rate.html#Calculator) <br />
