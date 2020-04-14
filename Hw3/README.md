@@ -25,7 +25,7 @@ What is the call/put value? Or what is the PV of the expected payoff at expirati
 而輸出是現今該股票(標的)的選擇權價格，包括買權與賣權。
 
 ## 學習歷程
-[選擇權的二項式定價法](https://wiki.mbalib.com/zh-tw/%E4%BA%8C%E9%A1%B9%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7%E6%A8%A1%E5%9E%8B) ([BOPM](https://en.wikipedia.org/wiki/Binomial_options_pricing_model), Binomial Options Pricing Model) 與 [B-S期權定價模型](https://wiki.mbalib.com/zh-tw/Black-Scholes%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7%E6%A8%A1%E5%9E%8B)([Black-Scholes Option Pricing Model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)） 同為期權的訂價模型，只是前者的推導過程較後者簡單許多，而且前者其實是後者的近似，BOPM 用的是離散時間，B-S Model 是用連續的，故 BOPM 取極限會得到 B-S Model，他們之間還有許多關係，可參考[呂育道教授-BOPM and Black-Scholes Model](https://www.csie.ntu.edu.tw/~lyuu/finance1/2010/20100324.pdf) <br />
+[選擇權的二項式定價法](https://wiki.mbalib.com/zh-tw/%E4%BA%8C%E9%A1%B9%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7%E6%A8%A1%E5%9E%8B) ([BOPM](https://en.wikipedia.org/wiki/Binomial_options_pricing_model), Binomial Options Pricing Model) 與 [B-S期權定價模型](https://wiki.mbalib.com/zh-tw/Black-Scholes%E6%9C%9F%E6%9D%83%E5%AE%9A%E4%BB%B7%E6%A8%A1%E5%9E%8B)([Black-Scholes Option Pricing Model](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)） 同為期權的訂價模型，只是前者的推導過程較後者簡單許多，而且前者其實是後者的近似，BOPM 用的是離散時間，B-S Model 是用連續的，故 BOPM 取極限會得到 B-S Model，他們之間還有許多關係，可參考[呂育道教授-BOPM and Black-Scholes Model](https://www.csie.ntu.edu.tw/~lyuu/finance1/2010/20100324.pdf)。 <br />
 
 關於本次作業，最重要的部分就是 BOPM 的結構搭配 backward induction 來算出現在價格，最核心的式子是：
 
