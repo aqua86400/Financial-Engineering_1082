@@ -25,3 +25,6 @@ Email：r06246008@ntu.edu.tw <br />
 ### Week_5 The combinatorics of random walks & BOPM
 * 課程投影片：[W5](https://docs.google.com/presentation/d/e/2PACX-1vRX3Gc10remKdNmd8AasUwrjLBaxST60fJdj5gX_365ufyJ6EWqKLkNnKEoXUeQGkOdls_YckLquWDu/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
 * 作業三：使用二項期權定價模型(BOPM)來計算選擇權現今合理價格 [Hw3](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw3) <br />
+
+### Week_6 Martingale, Brownian motion, stochastic calculus, and Ito integral
+* 課程投影片：[W6](https://docs.google.com/presentation/d/e/2PACX-1vRS0mJu3EjbWGGSon0JnuzqNypNUVZsRS3FBcI747I_aV4ERmfO-ybdu0L4vFv17mgutt0tTu-3QS2p/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
