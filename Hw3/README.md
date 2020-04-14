@@ -10,8 +10,11 @@ Hence p = (R − d)/(u − d) = 0.7.
 Consider a European call on this stock with X = 150 and n = 3.
 
 What is the call/put value? Or what is the PV of the expected payoff at expiration? (by backward induction).
+
 ---
 
 ## 學習歷程
 
 ## 程式流程圖
+以下為`Hw3.ipynb`的流程圖：
+![hw3_flowchart](https://github.com/aqua86400/Financial_Engineering/master/Hw3/hw3_flowchart.png)
