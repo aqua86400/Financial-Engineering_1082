@@ -24,4 +24,4 @@ Email：r06246008@ntu.edu.tw <br />
 
 ### Week_5 The combinatorics of random walks & BOPM
 * 課程投影片：[W5](https://docs.google.com/presentation/d/e/2PACX-1vRX3Gc10remKdNmd8AasUwrjLBaxST60fJdj5gX_365ufyJ6EWqKLkNnKEoXUeQGkOdls_YckLquWDu/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
-* 作業三：使用**二項期權定價模型(BOPM)**來計算選擇權現今合理價格 [Hw3](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw3) <br />
+* 作業三：使用二項期權定價模型(BOPM)來計算選擇權現今合理價格 [Hw3](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw3) <br />
