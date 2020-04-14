@@ -16,5 +16,6 @@ What is the call/put value? Or what is the PV of the expected payoff at expirati
 ## 學習歷程
 
 ## 程式流程圖
-以下為`Hw3.ipynb`的流程圖：
-![hw3_flowchart](https://github.com/aqua86400/Financial_Engineering/master/Hw3/hw3_flowchart.png)
+以下為[`Hw3.ipynb`](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw3/Hw3.ipynb)的流程圖：<br />
+
+![hw3_flowchart](https://github.com/aqua86400/Financial_Engineering/blob/master/Hw3/hw3_flowchart.png)
