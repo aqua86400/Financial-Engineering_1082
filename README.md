@@ -28,3 +28,6 @@ Email：r06246008@ntu.edu.tw <br />
 
 ### Week_6 Martingale, Brownian motion, stochastic calculus, and Ito integral
 * 課程投影片：[W6](https://docs.google.com/presentation/d/e/2PACX-1vRS0mJu3EjbWGGSon0JnuzqNypNUVZsRS3FBcI747I_aV4ERmfO-ybdu0L4vFv17mgutt0tTu-3QS2p/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
+
+### Week_7 Risk-neutral valuation
+* 課程投影片：[W7](https://docs.google.com/presentation/d/e/2PACX-1vSAJx1kxLxDgGRtoGuNbM4aaKQO_astePdpST1ezrbxLdp4-MaPQoeQIbSzHRweU280NfjBNXANijXP/pub?start=false&loop=false&delayms=3000&slide=id.g813de7c3b8_0_297)<br />
