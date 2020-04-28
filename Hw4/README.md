@@ -1,4 +1,4 @@
-# 作業四：使用Black and Scholes formula 計算選擇權價格
+# 作業四：使用 B-S formula 計算選擇權價格
 
 ## 學習歷程
 
