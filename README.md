@@ -31,3 +31,16 @@ Email：r06246008@ntu.edu.tw <br />
 
 ### Week_7 Risk-neutral valuation
 * 課程投影片：[W7](https://docs.google.com/presentation/d/e/2PACX-1vSAJx1kxLxDgGRtoGuNbM4aaKQO_astePdpST1ezrbxLdp4-MaPQoeQIbSzHRweU280NfjBNXANijXP/pub?start=false&loop=false&delayms=3000&slide=id.g813de7c3b8_0_297)<br />
+* 作業四：使用 Black-Scholes Model 來計算選擇權買賣權價格 [Hw4](https://github.com/aqua86400/Financial_Engineering/tree/master/Hw4) <br />
+
+### Week_8 Risk Management
+* 課程投影片：[W8](https://docs.google.com/presentation/d/e/2PACX-1vQsEMGzLd_CPiEhzpXOnPJg3WzcXXkSYN60Ip6gKUXWsB9e7Ddom59OehB5746bYle3BlMi7Nsl7vcY/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
+
+### Week_9 Fixed-income securities with embedded options and interest rate derivatives
+* 課程投影片：[W9](https://docs.google.com/presentation/d/e/2PACX-1vRRpiXAxT35pUTud9EzQt5Awoof0z0X03sDGe5kaVbt6CPJdyozZtortnBNUupMWHXaHafywKJ993sv/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
+* 作業五：使用 Hull White Model 進行選擇權定價
+
+### Week_10 Mortgage-backed securities
+* 課程投影片：[W10](https://docs.google.com/presentation/d/e/2PACX-1vQXGqUuVf-fb5gQ378aTyxHvjw5x457JqrhQb9C4xxPKZjERy6Sw262Q-tyPoeNsFaBt78McIHi4N-n/pub?start=false&loop=false&delayms=3000&slide=id.p)<br />
+
+
